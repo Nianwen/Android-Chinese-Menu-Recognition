@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ChineseMenuRecognitionActivity!</string>
+    <string name="app_name">Chinese Menu Recognition</string>
+    <string name="text_hint">Your result will show here</string>
+    <string name="button_text">Start Recognition</string>
+
+</resources>
