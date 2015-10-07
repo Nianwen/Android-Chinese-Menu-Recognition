@@ -74,4 +74,4 @@ consists of following steps:
 
 7) Text translation
 
-8) Display of the translation and correponding pictures
+8) Display of the translation and corresponding pictures
